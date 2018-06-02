@@ -10,6 +10,10 @@ use Dhii\Util\String\StringableInterface as Stringable;
 /**
  * Functionality for RegEx matching that retrieves all matches.
  *
+ * If a custom error handler exists, and results in `preg_match_all()` throwing an exception, then the exception
+ * thrown by `_getAllMatchesRegex()` will contain that error text, which is more detailed. If no such handler is
+ * in place, the exception message would be much more generic.
+ *
  * @since [*next-version*]
  */
 trait GetAllMatchesRegexCapablePcreTrait
