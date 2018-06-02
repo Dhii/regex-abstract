@@ -12,7 +12,6 @@ Abstract functionality for working with regular expressions
 
 ### Traits
 - [`QuoteRegexCapablePcreTrait`] - Escapes a string such that it is interpreted literally by the PCRE engine.
-
 - [`GetAllMatchesRegexCapablePcreTrait`] - Gets all matches which correspond to a given PCRE expression from a string.
 Throws an exception if matching failed.
 
