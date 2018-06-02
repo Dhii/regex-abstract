@@ -1,6 +1,6 @@
 # Dhii - Regex Abstract
 
-[![Build Status](https://travis-ci.org/dhii/regex-abstract.svg?branch=develop)](https://travis-ci.org/Dhii/regex-abstract)
+[![Build Status](https://travis-ci.com/Dhii/regex-abstract.svg?branch=develop)](https://travis-ci.com/Dhii/regex-abstract)
 [![Code Climate](https://codeclimate.com/github/Dhii/regex-abstract/badges/gpa.svg)](https://codeclimate.com/github/Dhii/regex-abstract)
 [![Test Coverage](https://codeclimate.com/github/Dhii/regex-abstract/badges/coverage.svg)](https://codeclimate.com/github/Dhii/regex-abstract/coverage)
 [![Latest Stable Version](https://poser.pugx.org/dhii/regex-abstract/version)](https://packagist.org/packages/dhii/regex-abstract)
